@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi there! I'm Priyanka Suryawanshi, a passionate learner currently immersed in the world of Machine Learning and Deep Learning through my enrollment at Integrify Academy 🚀.
+👋 Hi there! I'm Priyanka Suryawanshi, a passionate learner currently immersed in the world of Data Science and Machine Learning through my enrollment at Integrify Academy 🚀.
 
 🤝 I'm on the lookout for exciting collaboration opportunities with fellow enthusiasts who share a curiosity for unlocking the potential of data. If you have a project in mind or need an extra pair of hands, feel free to invite me to join the journey!
 
